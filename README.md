@@ -1,6 +1,6 @@
 # python-vgg16
 
-Please use python to load data.
+Use python to load data.
 
 Using numpy.load('filename.npy') to open the npy file.
 
